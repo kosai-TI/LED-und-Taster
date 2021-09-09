@@ -1,3 +1,4 @@
+#added slave 
 import RPi.GPIO as GPIO
 import time
 
