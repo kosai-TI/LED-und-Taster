@@ -1,4 +1,4 @@
-#added slave 
+#added slave
 import RPi.GPIO as GPIO
 import time
 
@@ -34,3 +34,8 @@ class Button:
         elif button_state == 0:
             self.pressed = False
             return self.pressed
+
+
+
+
+
